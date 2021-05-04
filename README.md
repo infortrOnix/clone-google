@@ -1,7 +1,7 @@
 # Google Clone
 
 With Ada Lovelace doodle
-Google with Tailwind CSS
+Google with Tailwind CSS & Next.Js
 
 ## API Reference
 
