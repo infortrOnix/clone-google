@@ -1,3 +1,38 @@
+# Google Clone
+
+With Ada Lovelace doodle
+Google with Tailwind CSS
+
+## API Reference
+
+#### Get all items
+
+```https://developers.google.com/custom-search/v1/using_rest
+  GET /api/key
+```
+
+
+#### Get item
+
+```http://cse.google.com/cse/create/new
+  GET /api/context
+```
+
+## Author
+
+- @valeriavso
+
+## Screenshots
+
+![App Screenshot](https://github.com/valerisvso/google/blob/main/google.jpg)
+
+
+## Demo
+
+https://google-pearl.vercel.app/
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
